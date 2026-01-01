@@ -219,7 +219,7 @@
 }
 
 .input-wrapper input:focus {
-  border-color: #667eea;
+  border-color: #07523b;
   box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
 }
 
@@ -271,7 +271,7 @@
 }
 
 .terms-checkbox a {
-  color: #667eea;
+  color: #064b22;
   text-decoration: none;
   font-weight: 600;
 }
